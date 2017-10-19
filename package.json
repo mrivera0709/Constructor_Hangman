@@ -1,0 +1,23 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "A hangman command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrivera0709/Constructor_Hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrivera0709/Constructor_Hangman/issues"
+  },
+  "homepage": "https://github.com/mrivera0709/Constructor_Hangman#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "is-letter": "^1.1.1"
+  }
+}
